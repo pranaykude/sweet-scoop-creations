@@ -1,4 +1,4 @@
-# 🍦 Sweet Scoops
+# 🍦 WELCOME TO OUR Sweet Scoops .... 
 
 An elegant and modern **e-commerce website** built with **TypeScript, React, Vite, Tailwind CSS, and Shadcn-UI**.  
 Sweet Scoops is designed as a **fully responsive, professional business storefront** that provides a seamless shopping experience. With a clean UI, dynamic product displays, and AI-powered enhancements, it combines **aesthetic design with modern functionality**.  
