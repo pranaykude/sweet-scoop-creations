@@ -39,9 +39,9 @@ This project is crafted for scalability and flexibility, making it a strong foun
 
 Here are some previews of the Sweet Scoops storefront (replace placeholders with your screenshots):  
 
-![Screenshot 1](./screenshots/screenshot1.png)  
-![Screenshot 2](./screenshots/screenshot2.png)  
-![Screenshot 3](./screenshots/screenshot3.png)  
+![Screenshot 1]([./screenshots/screenshot1.png](https://postimage.me/images/2025/08/19/Screenshot-2025-08-19-120745.png)])  
+![Screenshot 2]([./screenshots/screenshot2.png](https://postimage.me/images/2025/08/19/Screenshot-2025-08-19-120811.png))  
+![Screenshot 3]([./screenshots/screenshot3.png](https://postimage.me/images/2025/08/19/Screenshot-2025-08-19-120830.png))  
 
 ---
 
