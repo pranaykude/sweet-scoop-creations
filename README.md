@@ -6,6 +6,9 @@ Sweet Scoops is designed as a **fully responsive, professional business storefro
 This project is crafted for scalability and flexibility, making it a strong foundation for any online store.  
 
 ---
+# 🍦 Sweet Scoops link to visit .....
+link :  https://sweetscoops.pranaycode.online/
+
 
 ## 📑 Table of Contents
 - [Features](#-features)  
