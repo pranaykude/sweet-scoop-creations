@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# 🍦 Sweet Scoops
 
-## Project info
+An elegant and modern **e-commerce website** built with **TypeScript, React, Vite, Tailwind CSS, and Shadcn-UI**.  
+Sweet Scoops is designed as a **fully responsive, professional business storefront** that provides a seamless shopping experience. With a clean UI, dynamic product displays, and AI-powered enhancements, it combines **aesthetic design with modern functionality**.  
 
-**URL**: https://lovable.dev/projects/72a24b3b-ea26-4814-ab6c-ec09194ff9f0
+This project is crafted for scalability and flexibility, making it a strong foundation for any online store.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📑 Table of Contents
+- [Features](#-features)  
+- [Screenshots](#-screenshots)  
+- [Tech Stack](#-tech-stack)  
+- [Installation](#-installation)  
+- [License](#-license)  
+- [Usage](#-usage)  
+- [Deployment](#-deployment)  
+- [Configuration](#-configuration)  
+- [Troubleshooting](#-troubleshooting)  
+- [Contributing](#-contributing)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/72a24b3b-ea26-4814-ab6c-ec09194ff9f0) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🛍️ **Product Listing** – Browse products with modern responsive layouts  
+- 🛒 **Shopping Cart** – Add, update, and remove items effortlessly  
+- 🔑 **Authentication** – Secure login/signup for customers  
+- ➕ **Add to Cart** – Smooth product-to-cart flow  
+- 💖 **Wishlists** – Save favorite products for later  
+- 📱 **Fully Responsive** – Optimized for mobile, tablet, and desktop  
+- ⚡ **Fast & Modern UI** – Built with Vite, React, and Tailwind for performance  
+- 🤖 **AI Integration** – Enhances browsing and shopping experience  
+- 🎨 **Shadcn-UI Components** – Clean, modern, and accessible UI  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🖼 Screenshots  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Here are some previews of the Sweet Scoops storefront (replace placeholders with your screenshots):  
 
-Follow these steps:
+![Screenshot 1](./screenshots/screenshot1.png)  
+![Screenshot 2](./screenshots/screenshot2.png)  
+![Screenshot 3](./screenshots/screenshot3.png)  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Frontend:** React, TypeScript, Vite  
+- **Styling:** Tailwind CSS, Shadcn-UI  
+- **State Management:** React Hooks / Context API (extendable)  
+- **Deployment:** Netlify  
+
+---
+
+## ⚙️ Installation  
+
+Clone the repository and set up locally:  
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate into the project folder
+cd sweet-scoops
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/72a24b3b-ea26-4814-ab6c-ec09194ff9f0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
